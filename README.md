@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">A games & software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunrise&label=Profile%20views&color=0e75b6&style=flat" alt="sunrise"> </p>
-
-<p align="left"> <a href="https://github.com/StevenDeff/"><img src="https://avatars.githubusercontent.com/u/114510644?v=4" alt="sunrise" width=176 height=176//></a> </p>
-
-<p align="left"> <a href="https://twitter.com/avs_clipped" target="blank"><img src="https://img.shields.io/twitter/follow/avs_clipped?logo=twitter&style=for-the-badge" alt="avs_clipped" /></a> </p>
-
 - 🔭 I’m currently studying at **Epitech (2nd year)**
 
 - 🌱 I’m currently learning **C++/C/C#/ReactJS/Python**
