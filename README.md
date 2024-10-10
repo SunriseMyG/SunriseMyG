@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A games & software developer</h3>
+<h3 align="center">Games/Software & Web Developer</h3>
 
 - 🔭 I’m currently studying at **Epitech (3rd year)**
 
