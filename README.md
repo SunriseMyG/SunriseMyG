@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">A games & software developer</h3>
 
-- 🔭 I’m currently studying at **Epitech (2nd year)**
+- 🔭 I’m currently studying at **Epitech (3rd year)**
 
-- 🌱 I’m currently learning **C++/C/C#/ReactJS/Python**
+- 🌱 I’m currently learning **C++/C/C#/ReactJS/TypeScript/NodeJS/MySQL/Python**
 
 - 👨‍💻 All of my projects are available on my Gihub profile [https://github.com/StevenDeff](https://github.com/SunriseMyG)
 
