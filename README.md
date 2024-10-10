@@ -5,19 +5,19 @@
 
 - 🌱 I’m currently learning **C++/C/C#/ReactJS/Python**
 
-- 👨‍💻 All of my projects are available on my Gihub profile [https://github.com/StevenDeff](https://github.com/StevenDeff)
+- 👨‍💻 All of my projects are available on my Gihub profile [https://github.com/StevenDeff](https://github.com/SunriseMyG)
 
 - 📫 How to reach me **steven.deffontaine@epitech.eu**
 
 - 📄 Know about my experiences :
-<a href="https://github.com/StevenDeff/Epitech-Raytracer">Raytracer</a>
-<a href="https://github.com/StevenDeff/Epitech-Arcade">Arcade</a>
+<a href="https://github.com/SunriseMyG/Epitech-Raytracer">Raytracer</a>
+<a href="https://github.com/SunriseMyG/Epitech-Arcade">Arcade</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/steven-deffontaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-deffontaine" height="30" width="40" /></a>
 <a href="https://discord.gg/sunrisemyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sunrisemyg" height="30" width="40" /></a>
-<a href="https://twitter.com/avs_clipped" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avs_clipped" height="30" width="40" /></a>
+<a href="https://twitter.com/AceTeeGG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avs_clipped" height="30" width="40" /></a>
 <a href="https://instagram.com/steven.dft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="steven.dft" height="30" width="40" /></a>
 </p>
 
