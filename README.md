@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">Games/Software & Web Developer</h3>
+<img align="center" src="https://komarev.com/ghpvc/?username=SunriseMyG&label=Profile%20views&color=0e75b6&style=flat" alt="SunriseMyG" />
 
 - 🔭 I’m currently studying at **Epitech (3rd year)**
 
